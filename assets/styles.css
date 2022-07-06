@@ -26,4 +26,11 @@ body
   background: rgba(0, 0, 0, 0.5);
   border-radius: 50%;
 }
+.box::before
+{
+  content: '';
+  position: absolute;
+  inset: 10px;
+  background: linear-gradient(315deg, #00ccff, #d400d4);
+}
 /* end of content styles */
