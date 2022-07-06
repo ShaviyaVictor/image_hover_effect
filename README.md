@@ -1,7 +1,8 @@
 # image_hover_effect
 Creating Border Animation &amp; Image Hover Effects practice exercises.
           
-<img src="#" width="600" height="350" alt="">             
+<img src="https://github.com/ShaviyaVictor/image_hover_effect/blob/main/assets/images/img_hover.png" width="800" height="733" alt="">                       
+<img src="https://github.com/ShaviyaVictor/image_hover_effect/blob/main/assets/images/info_hover.png" width="800" height="733" alt="">             
 
 ## Built With
 
