@@ -16,5 +16,14 @@ body
   min-height: 100vh;
   background: #162052;
 }
-
 /* end of global styles */
+/* start of content styles */
+.box
+{
+  position: relative;
+  width: 400px;
+  height: 400px;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+}
+/* end of content styles */
