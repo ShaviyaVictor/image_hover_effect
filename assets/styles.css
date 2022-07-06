@@ -69,7 +69,13 @@ body
   border: 6px solid #070a1c;
   z-index: 3;
   border-radius: 50%;
+  /* img style */
   overflow: hidden;
+  /* info styling */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 .content img
 {
@@ -88,3 +94,14 @@ body
   opacity: 0;
 }
 /* end of the info container */
+/* start of info styles */
+.content h2
+{
+  position: relative;
+  font-size: 1.5em;
+  text-align: center;
+  color: #fff;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+/* end of info styles */
