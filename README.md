@@ -1,7 +1,8 @@
 # image_hover_effect
 Creating Border Animation &amp; Image Hover Effects practice exercises.
           
-<img src="#" width="600" height="350" alt="">             
+<img src="https://github.com/ShaviyaVictor/image_hover_effect/blob/main/assets/images/img_hover.png" width="400" height="366.5" alt="img_hover">                       
+<img src="https://github.com/ShaviyaVictor/image_hover_effect/blob/main/assets/images/info_hover.png" width="400" height="366.5" alt="img_hover">             
 
 ## Built With
 
@@ -13,13 +14,10 @@ Creating Border Animation &amp; Image Hover Effects practice exercises.
 
 ## License
 
-This project is licensed under the [Apache License 2.0](https://github.com/ShaviyaVictor/custom_setup_template/blob/main/LICENSE).           
+This project is licensed under the [Apache License 2.0](https://github.com/ShaviyaVictor/image_hover_effect/blob/main/LICENSE).           
 
 ## Resources
-- [YouTube](#)          
-- [Image source](#)          
-- [Image Download Link](#)          
-
+- [YouTube](https://www.youtube.com/watch?v=1C8lGN-1Sq0)          
 
 ## Acknowledgments
 
