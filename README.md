@@ -13,13 +13,10 @@ Creating Border Animation &amp; Image Hover Effects practice exercises.
 
 ## License
 
-This project is licensed under the [Apache License 2.0](https://github.com/ShaviyaVictor/custom_setup_template/blob/main/LICENSE).           
+This project is licensed under the [Apache License 2.0](https://github.com/ShaviyaVictor/image_hover_effect/blob/main/LICENSE).           
 
 ## Resources
-- [YouTube](#)          
-- [Image source](#)          
-- [Image Download Link](#)          
-
+- [YouTube](https://www.youtube.com/watch?v=1C8lGN-1Sq0)          
 
 ## Acknowledgments
 
