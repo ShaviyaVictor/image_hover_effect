@@ -105,4 +105,9 @@ body
   font-weight: 600;
   letter-spacing: 0.05em;
 }
+.content h2 span
+{
+  font-weight: 300;
+  font-size: 0.9em;
+}
 /* end of info styles */
