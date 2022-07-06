@@ -51,4 +51,13 @@ body
     transform: rotate(360deg);
   }
 }
+.box::after
+{
+  content: '';
+  position: absolute;
+  inset: 6px;
+  background: #162052;
+  border-radius: 50%;
+  z-index: 1;
+}
 /* end of content styles */
