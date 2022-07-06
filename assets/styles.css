@@ -110,4 +110,18 @@ body
   font-weight: 300;
   font-size: 0.9em;
 }
+.content a
+{
+  position: relative;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background: #EDEBD6;
+  color: #070a1c;
+  border-radius: 25px;
+  font-weight: 500;
+  font-size: 1em;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+  transition: 0.5s;
+}
 /* end of info styles */
