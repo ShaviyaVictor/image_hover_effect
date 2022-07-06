@@ -82,4 +82,8 @@ body
   transition: 0.5s;
   pointer-events: none;
 }
+.box:hover .content img
+{
+  opacity: 0;
+}
 /* end of the info container */
