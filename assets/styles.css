@@ -33,9 +33,21 @@ body
   inset: -10px 140px;
   background: linear-gradient(315deg, #00ccff, #d400d4);
   transition: 0.5s;
+  animation: animate 4s linear infinite;
 }
 .box:hover::before
 {
   inset: -20px 0px;
+}
+@keyframes animate
+{
+  0%
+  {
+    transform: rotate(0deg);
+  }
+  0%
+  {
+    transform: rotate(360deg);
+  }
 }
 /* end of content styles */
