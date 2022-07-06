@@ -88,6 +88,7 @@ body
   /* border-radius: 50%; */
   transition: 0.5s;
   pointer-events: none;
+  z-index: 3;
 }
 .box:hover .content img
 {
