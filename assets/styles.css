@@ -14,5 +14,7 @@ body
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  background: #162052;
 }
+
 /* end of global styles */
