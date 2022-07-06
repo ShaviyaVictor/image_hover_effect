@@ -17,7 +17,7 @@ body
   background: #162052;
 }
 /* end of global styles */
-/* start of content styles */
+/* start of main container styles */
 .box
 {
   position: relative;
@@ -60,4 +60,14 @@ body
   border-radius: 50%;
   z-index: 1;
 }
-/* end of content styles */
+/* end of main container styles */
+/* start of the info container */
+.content
+{
+  position: absolute;
+  inset: 30px;
+  border: 6px solid #070a1c;
+  z-index: 3;
+  border-radius: 50%;
+}
+/* end of the info container */
